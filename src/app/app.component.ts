@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PlatziSquare';
+  lat = -12.0862384;
+  lng = -77.0226701;
 }
